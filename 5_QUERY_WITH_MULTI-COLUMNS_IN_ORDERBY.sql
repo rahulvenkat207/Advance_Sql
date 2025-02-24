@@ -1,0 +1,6 @@
+SELECT *
+FROM customers
+ORDER BY  country ASC, score DESC
+
+-- WE CAN ALSO USE 4 FOR COUNTRY AND 5 FOR SCORE
+-- SELECT *FROM customers ORDER BY  4 ASC, 5 DESC
